@@ -1,3 +1,5 @@
+Good Evening Moonraft Team! I have selected the 1st problem statement. Here is my solution for the problem.  
+
 # Fake-Image-Detection
 Fake Image Classifier that distinguishes real images from fake images.  
 
@@ -32,3 +34,6 @@ These numbers are present in the output document.
 
 ### Output  
 The output can be viewed in full in the output document. However, here are a few screenshots too.  
+![image](https://github.com/Colin-Antony/Fake-Image-Detection/assets/123204978/9226a251-cd31-4a38-87f5-d107a0468212)  
+![image](https://github.com/Colin-Antony/Fake-Image-Detection/assets/123204978/5e62833b-1a17-4dcf-a024-d46d8168ffe5)  
+![image](https://github.com/Colin-Antony/Fake-Image-Detection/assets/123204978/530b4029-9036-4241-bc4a-aa24ad9bd7a1)  
